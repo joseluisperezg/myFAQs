@@ -8,6 +8,8 @@ En este caso he intentado realizar este proceso de documentación mediante una e
 
 Un conjunto de preguntas pueden estar relacionadas al intentar explicar un concepto complejo, pero tratando de desglosarlo en la forma de pregunta respuesta.
 
+Una guía rápida para recordar y reutilizar conceptos utilizados.
+
 La idea es poder aprender conceptos o situaciones 
 Hacer evidente consideraciones especiales
 
