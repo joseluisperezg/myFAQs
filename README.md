@@ -43,7 +43,7 @@ Areas:
   - Iteractivas
   - SCRUM
   - TDD
--Data Analysis
+- Data Analysis
   - PowerBi
   - Jypiter
   - NumPi
