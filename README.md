@@ -28,6 +28,7 @@ Areas:
   - Específicos / propietarios
     - AL (Dynamics NAV / Business Central)
     - [sql](sql/FAQsql.md)
+    - R
   - Linea de comandos
     - powershell
   - Marcado
