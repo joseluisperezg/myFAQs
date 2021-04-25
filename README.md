@@ -19,18 +19,24 @@ Areas:
 - Dynamics NAV
 - [git](git/FAQgit.md)
 - Languages
-  - AL
-  - javascript
-  - python
-  - powershell
-  - flutter/dart
-  - go
+  - Proposito general
+    - javascript (Web)
+    - python
+    - C#
+    - dart
+    - go
+  - Específicos / propietarios
+    - AL (Dynamics NAV / Business Central)
+  - Linea de comandos
+    - powershell
   - [sql](sql/FAQsql.md)
-  - HTML
-  - Markdown
+  - Marcado
+    - HTML
+    - Markdown
 - Frameworks
   - node
   - React
+  - flutter
 - Metodologías
   - Cascada
   - Iteractivas
