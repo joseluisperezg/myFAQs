@@ -15,7 +15,7 @@ Hacer evidente consideraciones especiales
 Areas:
 
 - Dynamics NAV
-- [git](FAQgit.rd)
+- [git](FAQgit.md)
 - Languages
   - AL
   - javascript
