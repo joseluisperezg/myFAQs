@@ -16,7 +16,7 @@ Hacer evidente consideraciones especiales
 
 Areas:
 
-- Dynamics NAV
+- Dynamics NAV / Business Central
 - [git](git/FAQgit.md)
 - Languages
   - Proposito general
@@ -42,6 +42,7 @@ Areas:
   - Iteractivas
   - SCRUM
   - TDD
+- Docker
 
 
 
