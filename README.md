@@ -14,16 +14,19 @@ Hacer evidente consideraciones especiales
 
 Areas:
 
-Dynamics NAV
-git
-Languages
-  AL
-  javascript
-  python
-  powershell
-  flutter/dart
-  go
-node
+- Dynamics NAV
+- git
+- Languages
+  - AL
+  - javascript
+  - python
+  - powershell
+  - flutter/dart
+  - go
+  - sql
+- Frameworks
+  - node
+  - React
 
 
 
