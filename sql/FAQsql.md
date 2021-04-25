@@ -2,4 +2,5 @@
 
 - ¿Qué es SQL?
 
-- ¿Como modifico usando datos en otras tablas?
+- [¿Como modifico los datos de una tabla?]
+- [¿Como modifico usando datos en otras tablas?]
