@@ -27,9 +27,9 @@ Areas:
     - go
   - Específicos / propietarios
     - AL (Dynamics NAV / Business Central)
+    - [sql](sql/FAQsql.md)
   - Linea de comandos
     - powershell
-  - [sql](sql/FAQsql.md)
   - Marcado
     - HTML
     - Markdown
@@ -42,6 +42,13 @@ Areas:
   - Iteractivas
   - SCRUM
   - TDD
+-Data Analysis
+  - PowerBi
+  - Jypiter
+  - NumPi
+  - Pandas
+  - Tensorflow
+  - Colaboration
 - Docker
 
 
