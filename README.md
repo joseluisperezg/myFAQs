@@ -15,7 +15,7 @@ Hacer evidente consideraciones especiales
 Areas:
 
 - Dynamics NAV
-- [git](FAQgit.md)
+- [git](git/FAQgit.md)
 - Languages
   - AL
   - javascript
@@ -23,7 +23,7 @@ Areas:
   - powershell
   - flutter/dart
   - go
-  - sql
+  - [sql](sql/FAQsql.md)
   - HTML
   - Markdown
 - Frameworks
