@@ -29,6 +29,11 @@ Areas:
 - Frameworks
   - node
   - React
+- Metodologías
+  - Cascada
+  - Iteractivas
+  - SCRUM
+  - TDD
 
 
 
