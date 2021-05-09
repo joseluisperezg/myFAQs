@@ -23,10 +23,12 @@ Areas:
     - javascript (Web)
     - python
     - C#
-    - dart
+    - rust
     - go
+    - dart
   - Específicos / propietarios
-    - AL (Dynamics NAV / Business Central)
+    - C/AL (Dynamics NAV)
+    - AL (Business Central)
     - [sql](sql/FAQsql.md)
     - R
   - Linea de comandos
@@ -35,7 +37,7 @@ Areas:
     - HTML
     - Markdown
 - Frameworks
-  - node
+  - node.js
   - React
   - flutter
 - Metodologías
