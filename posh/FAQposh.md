@@ -1,3 +1,5 @@
+![](https://docs.microsoft.com/en-us/powershell/media/index/ps_black_128.svg)
+
 ¿Qué es powershell?
 
 Es un entorno de linea de comandos, mejor conocidos como shell. 
