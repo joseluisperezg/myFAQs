@@ -1,5 +1,9 @@
 ¿Qué es powershell?
 
+Es un entorno de linea de comandos, mejor conocidos como shell. 
+
+Es una evolucion de los entornos de comando tradicionales como, cmd en windows o Bourne Shell en unix, ya que este opera con objetos mas que caracteres. Las salidas de los comandos de los entornos tradicionales siempre retornan un respuesta en formato de texto, mientras que en powershell las salidas representan objetos, potenciando la manipulación de los resultados.
+
 ¿como determinar la version de powershell utilizada?
 
 $PSVERSIONTABLE
