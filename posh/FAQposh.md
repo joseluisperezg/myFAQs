@@ -47,3 +47,15 @@ dir *.txt | foreach { $_.LastWriteTime = $_.CreationTime = get-date }
 ¿Como puede obtener el hash de un fichero?
 
 expand-archive -path file.zip
+
+¿como obtener numeros aleatorios?
+
+get-random
+
+¿como hacer string sustitution?
+
+usando el parámetro -f
+
+"<string definition>" -f <values>
+
+"{0:0#} {1:0#}" -f (1..12 | get-random -count 2 | sort)
