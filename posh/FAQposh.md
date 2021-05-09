@@ -3,10 +3,13 @@
 ¿como determinar la version de powershell utilizada?
 
 $PSVERSIONTABLE
+
 $PSVERSIONTABLE.PSVERSION
 
 get-host
+
 (get-host).version
+
 ¿Como puedo consultar los comandos disponibles? 
 
 get-command gcm
@@ -14,8 +17,8 @@ get-command gcm
 ¿como obtener ayuda sobre un comando?
 
 get-help <cmd>
-man <cmd>
   
+man <cmd>  
 man -full <cmd>
   
 ¿Como determino el tipo que devuelve un comando?
