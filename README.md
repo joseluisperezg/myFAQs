@@ -16,8 +16,10 @@ Hacer evidente consideraciones especiales
 
 Areas:
 
-- Dynamics NAV / Business Central
-- [git](git/FAQgit.md)
+- ERP
+  - Dynamics NAV / Business Central
+- Version Management
+  - [git](git/FAQgit.md)
 - Languages
   - Proposito general
     - javascript (Web)
@@ -52,7 +54,8 @@ Areas:
   - Pandas
   - Tensorflow
   - Colaboration
-- Docker
+- Containers
+  - Docker
 
 
 
