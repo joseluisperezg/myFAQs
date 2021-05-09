@@ -21,6 +21,10 @@ get-help <cmd>
 man <cmd>  
 man -full <cmd>
   
+¿como obtener ayuda sobre tópicos de powershell?
+
+man about
+  
 ¿Como determino el tipo que devuelve un comando?
 
 get-date | get-member
@@ -54,7 +58,9 @@ get-random
 
 ¿como hacer string sustitution?
 
-usando el parámetro -f
+usando el format operator -f
+
+man about_Operators
 
 "<string definition>" -f <values>
 
