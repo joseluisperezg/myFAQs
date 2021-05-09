@@ -30,7 +30,7 @@ Areas:
     - [sql](sql/FAQsql.md)
     - R
   - Linea de comandos
-    - powershell
+    - [powershell](powershell/FAQposh.md)
   - Marcado
     - HTML
     - Markdown
