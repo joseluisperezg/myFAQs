@@ -8,7 +8,7 @@
 
 ¿Qué es git?
 
-[git home](https://git-scm.com/)
+[git-scm.com](https://git-scm.com/)
 
 ¿como mostrar un enlace?
 
