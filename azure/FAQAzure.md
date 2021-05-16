@@ -2,10 +2,7 @@
 
 1. [¿Qué es Azure?](#Qué-es-Azure)
 2. [¿Cómo gestiono los recursos en Azure?](#Cómo-gestiono-los-recursos-en-Azure)
-3. []
-4. []
-5. []
-6. []
+3. 
 
 
 
@@ -13,39 +10,6 @@
 ## ¿Qué es Azure?
 
 Azure es la plataforma en la nube de Microsoft.
-
-
-## otro
-
-
-
-
-## otro
-
-
-
-
-## otro
-
-
-
-
-## otro
-
-
-
-
-## otro
-
-
-
-
-## otro
-
-
-
-
-## otro
 
 
 
