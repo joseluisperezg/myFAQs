@@ -32,7 +32,7 @@ Existen diversas formas de acceder y gestionar los recursos en Azure
 
 ## ¿Qué niveles de servicio puedo acceder?
     - IaaS (Infraestructure as a Service)
-    - PaaS (Platforma as a Service)
+    - PaaS (Platform as a Service)
     - SaaS (Software as a Service)
 
 ## ¿Cómo se organizan los recursos en Azure?
