@@ -13,10 +13,13 @@
 10. [¿Cómo obtener números aleatorios?](#cómo-obtener-números-aleatorios)
 11. [¿Cómo hacer "String Sustitution"?](#cómo-hacer-"String-Sustitution")
 
-## ¿Qué es powershell?
-Es un entorno de linea de comandos, mejor conocidos como shell. 
 
-Es una evolucion de los entornos de comando tradicionales como, cmd en windows o Bourne Shell en unix, ya que este opera con objetos mas que secuencias de caracteres. Las salidas de los comandos de los entornos tradicionales siempre retornan un respuesta en formato de texto, mientras que en powershell las salidas representan objetos, potenciando la manipulación de los resultados.
+
+
+## ¿Qué es powershell?
+Es un entorno de línea de comandos, mejor conocidos como shell. 
+
+Es una evolución de los entornos de comando tradicionales como, cmd en windows o Bourne Shell en unix, ya que este opera con objetos más que secuencias de caracteres. Las salidas de los comandos de los entornos tradicionales siempre retornan un respuesta en formato de texto, mientras que en powershell las salidas representan objetos, potenciando la manipulación de los resultados.
 
 ## ¿Cómo determinar la versión de powershell utilizada?
 
