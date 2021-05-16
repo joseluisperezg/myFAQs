@@ -1,7 +1,7 @@
 # Azure  
 
 1. [¿Qué es Azure?](#Qué-es-Azure)
-2. [¿Cómo gestiono los recursos en Azure?](#faq2)
+2. [¿Cómo gestiono los recursos en Azure?](#Cómo-gestiono-los-recursos-en-Azure)
 3. []
 4. []
 5. []
@@ -49,7 +49,8 @@ Azure es la plataforma en la nube de Microsoft.
 
 
 
-## <a name="#faq2">¿Cómo gestiono los recursos en Azure?</a>
+<--## <a name="#faq2">¿Cómo gestiono los recursos en Azure?</a>
+## ¿Cómo gestiono los recursos en Azure?
 
 Existen diversas forma de gestionar los recursos en azure
 1. ***Azure Portal:*** Es la interfaz web.
