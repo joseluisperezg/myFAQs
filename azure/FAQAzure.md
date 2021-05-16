@@ -1,24 +1,18 @@
 # Azure  
 
-1. [¿Qué es Azure?](#Qué-es-Azure)
-2. [¿Cómo gestiono los recursos en Azure?](#Cómo-gestiono-los-recursos-en-Azure)
-3. 
-
-
-
+1. [¿Qué es Azure?](#qué-es-Azure)
+2. [¿Cómo gestiono los recursos en Azure?](#cómo-gestiono-los-recursos-en-Azure)
 
 ## ¿Qué es Azure?
 
 Azure es la plataforma en la nube de Microsoft.
 
-
-
-<--## <a name="#faq2">¿Cómo gestiono los recursos en Azure?</a>
 ## ¿Cómo gestiono los recursos en Azure?
 
 Existen diversas forma de gestionar los recursos en azure
 1. ***Azure Portal:*** Es la interfaz web.
-2. ***Azure SDK:*** Es la interfaz programática. Disonemos de diversion lenguajes de programación.
-3. Azure Rest
-4. ***Azure Powershell:*** Interfaz por línea de comandos, utilizando powershell.
-5. ***Azure CLI:*** Interfaz por línea de comandos, utilizando comandos az al estilo bash.
+3. ***Azure Powershell:*** Interfaz por línea de comandos, utilizando powershell.
+4. ***Azure CLI:*** Interfaz por línea de comandos, utilizando comandos az al estilo bash.
+5. ***Azure Clod Shell:*** Interfaz de línea de comando, utilizando  los comandos az desde el propio navegador, sin necesidad de intalar la consola en local.
+6. ***Azure SDK:*** Es la interfaz programática. Disonemos de diversion lenguajes de programación.
+7. ***Azure Rest***
