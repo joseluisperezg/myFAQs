@@ -16,6 +16,10 @@ Hacer evidente consideraciones especiales
 
 Areas:
 
+- Recursos en la nube
+  - [Azure (Microsof Azure)](azure/FAQAzure.md)
+  - AWS (Amazon Web Services)
+  - GCP (Google Cloud Computing
 - ERP
   - Dynamics NAV / Business Central
 - Version Management
