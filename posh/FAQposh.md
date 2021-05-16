@@ -7,7 +7,7 @@
 4. [¿Cómo obtener ayuda sobre un comando?](#cómo-obtener-ayuda-sobre-un-comando)
 5. [¿Cómo obtener ayuda sobre tópicos de powershell?](#cómo-obtener-ayuda-sobre-tópicos-de-powershell)
 6. [¿Cómo determino el tipo que devuelve un comando?](#cómo-determino-el-tipo-que-devuelve-un-comando)
-7. [¿Cómo puedo extraer un fichero .zip?](#cómo-puedo-extraer-un-fichero-.zip)
+7. [¿Cómo puedo extraer un fichero .zip?](#cómo-puedo-extraer-un-fichero-zip)
 8. [¿Cómo puedo cambiar la fecha de los ficheros?](#cómo-puedo-cambiar-la-fecha-de-los-ficheros)
 9. [¿Cómo puedo obtener el hash de un fichero?](#cómo-puedo-obtener-el-hash-de-un-fichero)
 10. [¿Cómo obtener números aleatorios?](#cómo-obtener-números-aleatorios)
@@ -68,7 +68,7 @@ como recordatorio podemos usar gcm archive
 expand-Archive -path -destinationPath .
 ```
 
-## ¿Cómo puedo comprimir un fichero en un fichero .zip?
+## ¿Cómo puedo comprimir un fichero en un fichero zip?
 ```powershell
 $compress = @{ Path = "C:\Reference\Draftdoc.docx", "C:\Reference\Images*.vsd" 
                CompressionLevel = "Fastest" 
