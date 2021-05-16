@@ -1,6 +1,6 @@
 # Azure  
 
-1. [¿Qué es Azure?](#faq1)
+1. [¿Qué es Azure?](#Qué-es-Azure)
 2. [¿Cómo gestiono los recursos en Azure?](#faq2)
 3. []
 4. []
