@@ -1,17 +1,17 @@
 ![](https://docs.microsoft.com/en-us/powershell/media/index/ps_black_128.svg)
 # powershell 
 
-1. [¿Qué es powershell?](Qué-es-powershell)
-2. [¿Cómo determinar la versión de powershell utilizada?](Cómo-determinar-la-versión-de-powershell-utilizada)
-3. [¿Cómo puedo consultar los comandos disponibles?](Cómo-puedo-consultar-los-comandos-disponibles)
-4. [¿Cómo obtener ayuda sobre un comando?](Cómo-obtener-ayuda-sobre-un-comando)
-5. [¿Cómo obtener ayuda sobre tópicos de powershell?](Cómo-obtener-ayuda-sobre-tópicos-de-powershell)
-6. [¿Cómo determino el tipo que devuelve un comando?](Cómo-determino-el-tipo-que-devuelve-un-comando)
-7. [¿Cómo puedo extraer un fichero .zip?](Cómo-puedo-extraer-un-fichero-.zip)
-8. [¿Cómo puedo cambiar la fecha de los ficheros?](Cómo-puedo-cambiar-la-fecha-de-los-ficheros)
-9. [¿Cómo puedo obtener el hash de un fichero?](Cómo-puedo-obtener-el-hash-de-un-fichero)
-10. [¿Cómo obtener números aleatorios?](Cómo-obtener-números-aleatorios)
-11. [¿Cómo hacer "String Sustitution"?](Cómo-hacer-"String-Sustitution")
+1. [¿Qué es powershell?](qué-es-powershell)
+2. [¿Cómo determinar la versión de powershell utilizada?](cómo-determinar-la-versión-de-powershell-utilizada)
+3. [¿Cómo puedo consultar los comandos disponibles?](cómo-puedo-consultar-los-comandos-disponibles)
+4. [¿Cómo obtener ayuda sobre un comando?](cómo-obtener-ayuda-sobre-un-comando)
+5. [¿Cómo obtener ayuda sobre tópicos de powershell?](cómo-obtener-ayuda-sobre-tópicos-de-powershell)
+6. [¿Cómo determino el tipo que devuelve un comando?](cómo-determino-el-tipo-que-devuelve-un-comando)
+7. [¿Cómo puedo extraer un fichero .zip?](cómo-puedo-extraer-un-fichero-.zip)
+8. [¿Cómo puedo cambiar la fecha de los ficheros?](cómo-puedo-cambiar-la-fecha-de-los-ficheros)
+9. [¿Cómo puedo obtener el hash de un fichero?](cómo-puedo-obtener-el-hash-de-un-fichero)
+10. [¿Cómo obtener números aleatorios?](cómo-obtener-números-aleatorios)
+11. [¿Cómo hacer "String Sustitution"?](cómo-hacer-"String-Sustitution")
 
 ## ¿Qué es powershell?
 Es un entorno de linea de comandos, mejor conocidos como shell. 
