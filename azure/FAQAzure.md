@@ -10,9 +10,9 @@
 
 
 
-## ¿Que es Azure?
+## ¿Qué es Azure?
 
-Azure es la plataforma en la nube de Microsoft
+Azure es la plataforma en la nube de Microsoft.
 
 ## ¿Cómo gestiono los recursos en Azure? { #faq2 }
 
