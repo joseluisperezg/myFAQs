@@ -1,8 +1,9 @@
 # Microsoft Dynamics Navision
 
-1. [¿Cual es la arquitectura de Microsoft Dynamics NAV?](#Cual-es-la-arquitectura-de-Microsoft-Dynamics-NAV)
-2. ¿Cual es el fichero de configuracion del cliente?
-3. ¿Cual es el fichero de configuracion del servidor?
+1. [¿Cuál es la arquitectura de Microsoft Dynamics NAV?](#Cual-es-la-arquitectura-de-Microsoft-Dynamics-NAV)
+2. ¿Cuál es la historia de versiones?
+3. ¿Cuál es el fichero de configuración del cliente?
+4. ¿Cuál es el fichero de configuración del servidor?
 
 # Links de interes
 - [Dynamics Nav](https://docs.microsoft.com/en-us/dynamics-nav-app/)
