@@ -8,11 +8,11 @@
 # Links de interes
 - [Dynamics Nav](https://docs.microsoft.com/en-us/dynamics-nav-app/)
 - [Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/)
-- [Ayuda en linea](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en)
+- [Ayuda en línea](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en)
   - [Tutoriales Servicios web](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en&content=conWebServiceWalkthroughs.htm)
   - [Tutorial SSL](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en&content=wlkConfiguringWebServicesUseSSLSOAPOdata.htm)
-- [Configuracion SSL](https://ksdconsultancy.blog/2015/08/09/configuring-web-services-to-use-ssl-soap-and-odata/)
+- [Configuración SSL](https://ksdconsultancy.blog/2015/08/09/configuring-web-services-to-use-ssl-soap-and-odata/)
 
 
-## ¿Cual es la arquitectura de Microsoft Dynamics NAV?
+## ¿Cuál es la arquitectura de Microsoft Dynamics NAV?
 
