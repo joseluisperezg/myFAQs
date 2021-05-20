@@ -21,7 +21,8 @@ Areas:
   - AWS (Amazon Web Services)
   - GCP (Google Cloud Computing
 - ERP
-  - Dynamics NAV / Business Central
+  - [Dynamics NAV](mbs/FAQNav.md)
+  - [Business Central](mbs/FAQBC.md)
 - Version Management
   - [git](git/FAQgit.md)
 - Languages
