@@ -1,7 +1,7 @@
 # Microsoft Dynamics Navision
 
-1. [¿Cuál es la arquitectura de Microsoft Dynamics NAV?](#Cuál-es-la-arquitectura-de-Microsoft-Dynamics-NAV)
-2. [¿Cuál es la historia de versiones?](Cuál-es-la-historia-de-versiones)
+1. [¿Cuál es la historia de versiones?](Cuál-es-la-historia-de-versiones)
+2. [¿Cuál es la arquitectura de Microsoft Dynamics NAV?](#Cuál-es-la-arquitectura-de-Microsoft-Dynamics-NAV)
 3. [¿Cuál es el fichero de configuración del cliente?](#Cuál-es-el-fichero-de-configuración-del-cliente)
 4. ¿Cuál es el fichero de configuración del servidor?
 
@@ -12,6 +12,7 @@
   - [Tutoriales Servicios web](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en&content=conWebServiceWalkthroughs.htm)
   - [Tutorial SSL](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en&content=wlkConfiguringWebServicesUseSSLSOAPOdata.htm)
 - [Configuración SSL](https://ksdconsultancy.blog/2015/08/09/configuring-web-services-to-use-ssl-soap-and-odata/)
+
 
 ## ¿Cuál es la historia de versiones?
 .
