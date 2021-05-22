@@ -1,6 +1,6 @@
 # Microsoft Dynamics Navision
 
-1. [¿Cuál es la historia de versiones?](Cuál-es-la-historia-de-versiones)
+1. [¿Qué versión de Navision busco?](#Qué-versión-de-Navision-busco)
 2. [¿Cuál es la arquitectura de Microsoft Dynamics NAV?](#Cuál-es-la-arquitectura-de-Microsoft-Dynamics-NAV)
 3. [¿Cuál es el fichero de configuración del cliente?](#Cuál-es-el-fichero-de-configuración-del-cliente)
 4. ¿Cuál es el fichero de configuración del servidor?
@@ -16,7 +16,7 @@
 - [Configuración SSL](https://ksdconsultancy.blog/2015/08/09/configuring-web-services-to-use-ssl-soap-and-odata/)
 
 
-## ¿Cuál es la historia de versiones?
+## ¿Qué versión de Navision busco?
 
 - Financials (2.6)
 - Navision Attain 3.6
