@@ -8,7 +8,8 @@
 ## Links de interes
 - [Dynamics Nav](https://docs.microsoft.com/en-us/dynamics-nav-app/)
 - [Welcome to Dynamics 365 Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/)
-- [Development and Administration for Dynamics 365 Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/)
+  - [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
+  - [Development and Administration for Dynamics 365 Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/)
 - [Ayuda en línea](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en)
   - [Tutoriales Servicios web](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en&content=conWebServiceWalkthroughs.htm)
   - [Tutorial SSL](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en&content=wlkConfiguringWebServicesUseSSLSOAPOdata.htm)
@@ -21,7 +22,7 @@
 - Navision Attain 3.6
 - MBS Navision 3.7
 - MBS Navision 4: 4.0, 4.0 SP1 (4.1), 4.0 SP2 (4.2), 4.0 SP3 (4.3)
-- Microsoft Dynamics NAV
+- [Microsoft Dynamics NAV](https://docs.microsoft.com/en-us/previous-versions/dynamics/)
   - Microsoft Dynamics Nav 5 (5.0, 5.0 SP1)
   - [Microsoft Dynamics NAV 2009: 2009 (6.0), 2009 SP1 (6.1), 2009 R2 (6.2)](https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2009/dd355204(v=nav.60))
   - [Microsoft Dynamics NAV 2013: 2013 (7.0), 2013 R2 (7.1)](https://docs.microsoft.com/en-us/dynamics/s-e/nav/msdnav2013r2downloadpage_580)
@@ -41,6 +42,7 @@
 Enlaces relacionados:
 - [History of Navision from 1983 till today](https://dynamicsuser.net/nav/w/history)
 - [Version numbers in Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/version-numbers)
+- [Major Updates and Minor Updates for Business Central Online](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/update-rollout-timeline)
 
 ## ¿Cuál es la arquitectura de Microsoft Dynamics NAV?
 .
