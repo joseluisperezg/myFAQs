@@ -60,10 +60,11 @@ Areas:
   - Tensorflow
   - Colaboration
 - Containers
+  - [Containers on Windows documentation](https://docs.microsoft.com/en-us/virtualization/windowscontainers/)
   - Docker
 
 
-## links pendientes
 
-[Containers on Windows documentation](https://docs.microsoft.com/en-us/virtualization/windowscontainers/)
+
+
 
