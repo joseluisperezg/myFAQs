@@ -63,5 +63,7 @@ Areas:
   - Docker
 
 
+## links pendientes
 
+[Containers on Windows documentation](https://docs.microsoft.com/en-us/virtualization/windowscontainers/)
 
