@@ -7,7 +7,8 @@
 
 ## Links de interes
 - [Dynamics Nav](https://docs.microsoft.com/en-us/dynamics-nav-app/)
-- [Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/)
+- [Welcome to Dynamics 365 Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/)
+- [Development and Administration for Dynamics 365 Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/)
 - [Ayuda en línea](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en)
   - [Tutoriales Servicios web](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en&content=conWebServiceWalkthroughs.htm)
   - [Tutorial SSL](https://navhelp110.fenwickcloud.com.au/main.aspx?lang=en&content=wlkConfiguringWebServicesUseSSLSOAPOdata.htm)
@@ -22,7 +23,7 @@
 - MBS Navision 4: 4.0, 4.0 SP1 (4.1), 4.0 SP2 (4.2), 4.0 SP3 (4.3)
 - Microsoft Dynamics NAV
   - Microsoft Dynamics Nav 5 (5.0, 5.0 SP1)
-  - Microsoft Dynamics NAV 2009: 2009 (6.0), 2009 SP1 (6.1), 2009 R2 (6.2)
+  - [Microsoft Dynamics NAV 2009: 2009 (6.0), 2009 SP1 (6.1), 2009 R2 (6.2)](https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2009/dd355204(v=nav.60))
   - [Microsoft Dynamics NAV 2013: 2013 (7.0), 2013 R2 (7.1)](https://docs.microsoft.com/en-us/dynamics/s-e/nav/msdnav2013r2downloadpage_580)
   - [Microsoft Dynamics NAV 2015: 2015 (8.0)](https://docs.microsoft.com/en-us/dynamics/s-e/nav/msdnav2015download_633)
   - [Microsoft Dynamics NAV 2016: 2016 (9.0)](https://docs.microsoft.com/en-us/dynamics/s-e/nav/msdnav2016download_652)
