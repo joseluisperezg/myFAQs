@@ -7,6 +7,7 @@
 
 ## Enlaces de interes
 
+- [Virtual Networks](https://docs.microsoft.com/en-us/azure/virtual-network/)
 - Command line
     - [Assign Azure roles using Azure PowerShell](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-powershell)
     - [Assign Azure roles using Azure CLI](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-cli)
