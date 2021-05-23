@@ -5,6 +5,12 @@
 3. [¿Qué niveles de servicio puedo acceder?](#qué-niveles-de-servicio-puedo-acceder)
 4. [¿Cómo se organizan los recursos en Azure?](#cómo-se-organizan-los-recursos-en-Azure)
 
+## Enlaces de interes
+
+- Command line
+    - [Assign Azure roles using Azure PowerShell](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-powershell)
+    - [Assign Azure roles using Azure CLI](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-cli)
+
 ## ¿Qué es Azure?
 
 Azure es la plataforma en la nube de Microsoft.
@@ -18,7 +24,7 @@ Existen diversas formas de acceder y gestionar los recursos en Azure
     - Interfaz por línea de comandos, utilizando la consola de powershell.
 3. [***Azure CLI:***](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli)
     - Interfaz por línea de comandos, utilizando comandos az al estilo bash.
-4. [***Azure Clod Shell:***](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
+4. [***Azure Cloud Shell:***](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
     - Interfaz de línea de comando, utilizando  los comandos az desde el propio navegador, sin necesidad de instalar la consola en local.
     - Se dispone tanto de la opción powershell como bash (comandos az)
 5. [***Azure libraries (SDK):***](https://azure.microsoft.com/en-us/downloads/)
