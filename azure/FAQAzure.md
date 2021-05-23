@@ -22,7 +22,7 @@ Existen diversas formas de acceder y gestionar los recursos en Azure
     - Es la interfaz web.
 2. [***Azure Powershell:***](https://docs.microsoft.com/en-us/powershell/azure/?view=azps-5.9.0)
     - Interfaz por línea de comandos, utilizando la consola de powershell.
-3. [***Azure CLI:***](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli)
+3. [***Azure CLI:***](https://docs.microsoft.com/en-us/cli/azure/)
     - Interfaz por línea de comandos, utilizando comandos az al estilo bash.
 4. [***Azure Cloud Shell:***](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
     - Interfaz de línea de comando, utilizando  los comandos az desde el propio navegador, sin necesidad de instalar la consola en local.
