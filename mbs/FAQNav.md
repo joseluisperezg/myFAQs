@@ -1,6 +1,6 @@
 # Microsoft Dynamics Navision
 
-1. [¿Cómo genero una version de pruebas?](#Cómo-genero-una-versión-de-pruebas)
+1. [¿Cómo genero una versión de pruebas?](#Cómo-genero-una-versión-de-pruebas)
 2. [¿Qué direcciones debo recordar?](#Qué-direcciones-debo-recordar)
 3. [¿Cómo se identifican las versiones?](#Cómo-se-identifican-las-versiones)
 4. [¿Cuál es la arquitectura de Microsoft Dynamics NAV?](#Cuál-es-la-arquitectura-de-Microsoft-Dynamics-NAV)
