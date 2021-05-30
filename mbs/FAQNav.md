@@ -1,7 +1,7 @@
 # Microsoft Dynamics Navision
 
 1. [¿Cómo genero una versión de pruebas?](#Cómo-genero-una-versión-de-pruebas)
-2. [¿Qué direcciones debo recordar?](#Qué-direcciones-debo-recordar)
+2. [¿Cómo acceder a las aplicaciones?](#Cómo-acceder-a-las-aplicaciones)
 3. [¿Cómo se identifican las versiones?](#Cómo-se-identifican-las-versiones)
 4. [¿Cuál es la arquitectura de Microsoft Dynamics NAV?](#Cuál-es-la-arquitectura-de-Microsoft-Dynamics-NAV)
 5. [¿Cuál es el fichero de configuración del cliente?](#Cuál-es-el-fichero-de-configuración-del-cliente)
@@ -22,20 +22,21 @@
 ## ¿Cómo genero una versión de pruebas?
 
 - Trials:
-  - [Sign up for a free trial](https://dynamics.microsoft.com/en-us/get-started/free-trial/?appname=)
+  - [Sign up for a free trial](https://dynamics.microsoft.com/en-us/get-started/free-trial)
   - [Start your digital transformation here](https://trials.dynamics.com/)
 
-## ¿Qué direcciones debo recordar?
 
-Tomando como referencia una version trial disponemos de las siguientes direcciones para acceder a las diferentes funcionalidades.
+## ¿Cómo acceder a las aplicaciones?
 
-- Operating:
-  - [Microsoft 365 admin center](https://portal.office.com/adminportal/#/homepage)
-  - [Dynamics 365 Business Central](https://businesscentral.dynamics.com/) 
-    - [Dynamics 365 Business Central](https://businesscentral.dynamics.com/?company=CRONUS%20ES&dc=0)
-  - [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments)
-  - [Power Apps](https://make.powerapps.com/)
-  - [Power Bi Home](https://app.powerbi.com/home)
+Tomando como referencia una version trial disponemos de diferentes aplicaciones que podemos integerar:
+
+- [Microsoft 365 admin center](https://portal.office.com/adminportal/#/homepage)
+- [Dynamics 365 Business Central](https://businesscentral.dynamics.com/) 
+- [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments)
+- [Power Automate](https://flow.microsoft.com)
+- [Power Apps](https://make.powerapps.com/)
+- [Power Bi Home](https://app.powerbi.com/home)
+
 
 ## ¿Cómo se identifican las versiones?
 
